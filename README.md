@@ -9,15 +9,18 @@ i've made a simple keylogger using c programming language also i've add a live k
 ### Dependencies
 
 * You need a compiler like gcc or any
-* And a code editor like vscode, codeblock or any other you like.
+* If you want to edit the program you'll need a code editor like vscode or any other you like.
 
 ### Executing program
 
 * Clone the program
+```c
+git clone https://github.com/NightmareLynx/Clogger
+```
 * And run the following Commands
 
 ```c
-gcc -o keylogger keylogger.c
+gcc -o keylogger clogger.c
 ./keylogger
 ```
 
