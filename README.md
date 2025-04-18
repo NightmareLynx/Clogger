@@ -20,8 +20,8 @@ git clone https://github.com/NightmareLynx/Clogger
 * And run the following Commands
 
 ```c
-gcc -o Clogger clogger.c
-./keylogger
+gcc -o clogger clogger.c
+./clogger.exe
 ```
 
 ## Help
